@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: "Inconsolata", monospace;
+    
+}
+.boss{
+    display:flex ;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.head,
+.fa-solid{
+    font-size: 30px;
+    font-weight: 500;
+}
+.boss2{
+    display:flex;
+    justify-content: space-between;
+
+}
+.d2{
+    display: flex;
+
+}
+.con{
+    list-style: none;
+    margin: 10px;
+}
+.con1{
+    list-style: none;
+    font-size: 25px;
+    font-weight: 500;
+}
+.con2 {
+    list-style: none;
+}
+.boss3{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+.anh{
+    height: 450px;
+    width: 450px;
+    margin: 10px;
+}
+.head, 
+.d1
+ {
+    margin-left: 40px;
+}
+
+.d2,
+.fa-solid {
+    margin-right: 40px;
+}
+.boss4 {
+    display: flex;
+    justify-content: center;
+}
+.conghe {
+    width: 400px;
+}
+.jack:first-child{
+    font-size: 25px;
+    font-weight: 500;
+}
+.jack {
+    list-style: none;
+    text-align: center ;
+}
+.an{
+    margin-top: 40px;
+    width: 230px;
+}

@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.boss{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.box{
+    background-color: orange;
+    height: 30px;
+    width: 30px;
+    
+}
+.ch,
+.ci,
+.ct,
+.c4{
+    display: flex;
+    margin-left: 20px;
+   
+}
+.box1{
+    background-color: orange;
+    height: 30px;
+    width: 30px;
+    margin:5px;
+    
+} 
+.a1 {
+    align-content: center;
+}
